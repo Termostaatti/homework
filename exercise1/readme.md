@@ -32,7 +32,7 @@ Example output of the program
 9
 ```
 
-## Task 3
+## Task 4
 
 Make a javascript console program that has two variables of any name. First variable contains value "Hello" and second variable contains value "world". After this make third variable named message and concat two strings to that. 
 

@@ -10,4 +10,4 @@ Example filepath
 ```
 ## List of exercises
 
-[Exercises 1](./exercise1/instructions.md)
+[Exercises 1](./exercise1/readme.md)

@@ -7,4 +7,4 @@ Example filepath
 /exercise1/task1/app.js
 ```
 
-[exercise 1](./exercise1/instructions.md)
+[Exercises 1](./exercise1/instructions.md)

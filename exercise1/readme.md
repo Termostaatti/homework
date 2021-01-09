@@ -36,6 +36,8 @@ Example output of the program
 
 Make a javascript console program that has two variables of any name. First variable contains value "Hello" and second variable contains value "world". After this make third variable named message and concat two strings to that. 
 
+All variables should be const type.
+
 When you print this message variable to console i should show following:
 ```
 Hello world

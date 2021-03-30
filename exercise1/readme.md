@@ -97,3 +97,48 @@ Make a javascript program that counts from 10 to zero and prints the numbers.
 
 Make a javascript program that prints all the variables that are divisible by 2 between
 0 - 30 using for loop.
+
+## Task 13
+
+This is first exercise to use while loop you can learn more about while loops from:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+
+Mak a javascript program that assigns number 50 to variable and then using while loop divides 
+the variable until its smaller than 1. In the end print the variables value.
+
+## Task 14
+
+This is first exercise to use functions you can learn more about functions from:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+Example function
+```js
+function square(number) {
+  return number * number;
+}
+```
+
+Make a javascript function named hello which prints text "Hello cow" and then call this in your program
+
+## Task 15
+
+Make a javascript function named hello which has one parameter named name. When you call this function
+it should print to console "Hello ${name parameter value}"
+
+## Task 16
+
+Make a javascript function names calculateRectangleArea that has two parameters width and height. 
+This function calculates the area of the rectange and then returns that.
+
+```javascript
+console.log(calculateRectangleArea(5, 5))
+// Expected output 25
+```
+
+## Task 17
+
+This is first exercise to use arrays you can learn more about them from:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+Make a javascript program that first assigns three numbers to array and then using loop 
+calculates sum of these values.

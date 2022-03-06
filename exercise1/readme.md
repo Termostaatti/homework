@@ -2,6 +2,8 @@
 All of these exercises are using Deno for javasript execution. In this exercise we are doing some very basic programming things.
 
 
+
+
 ## Task 1
 
 Make a javascript console program that prints "Hello daddy" to console.

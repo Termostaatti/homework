@@ -8,6 +8,13 @@ Example filepath
 ```
 /exercise1/task1/app.js
 ```
+
+Deno programs can be runned with following command
+```javascript
+deno run ./task1/app.js
+```
+
+
 ## List of exercises
 
 [Exercises 1](./exercise1/readme.md)

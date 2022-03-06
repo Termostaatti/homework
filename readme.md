@@ -14,6 +14,12 @@ Deno programs can be runned with following command
 deno run ./task1/app.js
 ```
 
+Terminal
+```bash
+# Change to folder
+cd folderpath
+```
+
 
 ## List of exercises
 

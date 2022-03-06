@@ -2,6 +2,8 @@
 All of these exercises are using Deno for javasript execution. In this exercise we are doing some very basic programming things.
 
 
+
+
 ## Task 1
 
 Make a javascript console program that prints "Hello daddy" to console.
@@ -97,3 +99,102 @@ Make a javascript program that counts from 10 to zero and prints the numbers.
 
 Make a javascript program that prints all the variables that are divisible by 2 between
 0 - 30 using for loop.
+
+## Task 13
+
+This is first exercise to use while loop you can learn more about while loops from:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+
+Mak a javascript program that assigns number 50 to variable and then using while loop divides 
+the variable until its smaller than 1. In the end print the variables value.
+
+## Task 14
+
+This is first exercise to use functions you can learn more about functions from:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+Example function
+```js
+function square(number) {
+  return number * number;
+}
+```
+
+Make a javascript function named hello which prints text "Hello cow" and then call this in your program
+
+## Task 15
+
+Make a javascript function named hello which has one parameter named name. When you call this function
+it should print to console "Hello ${name parameter value}"
+
+## Task 16
+
+Make a javascript function names calculateRectangleArea that has two parameters width and height. 
+This function calculates the area of the rectange and then returns that.
+
+```javascript
+console.log(calculateRectangleArea(5, 5))
+// Expected output 25
+```
+
+## Task 17
+
+This is first exercise to use arrays you can learn more about them from:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+Make a javascript program that first assigns three numbers to array and then using loop 
+calculates sum of these values.
+
+
+## Task 18
+
+Make a javascript function that takes number array as a parameter and then calculates
+mean of the numbers in the array and returns this mean value. Prove that this function
+works correctly.
+
+## Task 19
+
+Add numbers of 1-100 to number array using for loop.
+
+## Task 20
+
+Fifo queue is a structure in which elements are added in and firstly
+added element comes and then the second and so on. Use number array
+as fifo queue
+
+Hint
+```javascript
+array = []
+
+// Removes the first element
+array.shift()
+
+// Adds new element to the back of the array
+array.push(5)
+```
+
+## Task 21
+
+This is a first task which uses javascript objects. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+
+In javascript objects can be constructed using following notation:
+```javascript
+// This creates empty object
+const obj = {}
+
+// Object can also be initialized properties
+const obj = {
+  name: "matti",
+  age: 42
+}
+
+// Then the properties can be accessed with following
+console.log(obj.name) // prints "matti"
+
+const a = obj.name
+console.log(a) // prints "matti"
+
+```
+
+Construct object cat which has properties name and breed which have any 
+string type value.

@@ -144,3 +144,57 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 Make a javascript program that first assigns three numbers to array and then using loop 
 calculates sum of these values.
+
+
+## Task 18
+
+Make a javascript function that takes number array as a parameter and then calculates
+mean of the numbers in the array and returns this mean value. Prove that this function
+works correctly.
+
+## Task 19
+
+Add numbers of 1-100 to number array using for loop.
+
+## Task 20
+
+Fifo queue is a structure in which elements are added in and firstly
+added element comes and then the second and so on. Use number array
+as fifo queue
+
+Hint
+```javascript
+array = []
+
+// Removes the first element
+array.shift()
+
+// Adds new element to the back of the array
+array.push(5)
+```
+
+## Task 21
+
+This is a first task which uses javascript objects. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+
+In javascript objects can be constructed using following notation:
+```javascript
+// This creates empty object
+const obj = {}
+
+// Object can also be initialized properties
+const obj = {
+  name: "matti",
+  age: 42
+}
+
+// Then the properties can be accessed with following
+console.log(obj.name) // prints "matti"
+
+const a = obj.name
+console.log(a) // prints "matti"
+
+```
+
+Construct object cat which has properties name and breed which have any 
+string type value.
